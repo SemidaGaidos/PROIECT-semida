@@ -1,2 +1,2 @@
-# PROIECT-semida
+# proiect
 Created with CodeSandbox
